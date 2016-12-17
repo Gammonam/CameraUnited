@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_986e28d80284d2f79ad117f07bfee56c7cb01d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_69de39327d8b1fd51582170d352dd017a1dd956f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b327a839be3ead2ba481d605350036f79b07aeaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c8bc08b457e4107c93c3ba9180e711915c1a4693">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_993e7f233bcae9bb88d7a8628a065ba20d0523bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_c0e66b2a208a69aeb0c34c889fef49ca29fc91e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c30915b2060e78576848ef6042014bf73b854995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_279574648a67d44187182033417072324d5d5646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_298b22a4ebcbf6faa72b9787b7c9c1ddd627b1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0497734cafc0834fd9ac5d2d26ee1dacd69ac9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1575f68c7fb4f8e2669269b74bf2f093f564e94f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_ffdd33c2b448690f84beef4f9ae63c58a8fec9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_042d22d476f8af0abc0f5d5d2737f941361e9ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eb814bfe4a06373cc5731b58d3e19ce76372b4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.1_00f979d9fdfa336fc0c4796ee3214dad3fc50e62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.1_7e9a516b03f7dfaac7e8ce3e1f3217743ac94d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9364d8cbdbcd3af029c48981df1cd47398f42465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.6.1_fa543584ef7f8dd61176c39c7165b6a829d8bb96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_212b3c163dd1450c7926c0b17492d76b2c5e5503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.1_a870c2cb90a1faf5094956ee075fe456dc7731eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_72866977b40606b070f21637205af9b051db84ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3a843ac47bc886050106b0fe8cc8fbaffc4b6633">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\instant-run_8589d201bdaecfaa35b7e16b9dc82347b819f010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_efb67685fdfd54f00f16cb8f38007e51f0df7bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_d399d2c1fa27df2ef8ef7bf2de36e1679e0d34fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.1.0\e13484d9da178399d32d2d27ee21a77cfb4b7873\protobuf-java-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e13484d9da178399d32d2d27ee21a77cfb4b7873">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\protobuf-java-3.1.0_e9b661e59b2ab8194561cc51bdaf8972c14dc7fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_49e8ed0aa03eed125e9b73af5bc8df0e935a0616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_455065fb9c5adbc0198b364206205db083f06f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Gamilan\AndroidStudioProjects\EsamuRFTAndroid-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_259f0f2e5bd058dd3c733f72042b5c688c6b045f.jar" />
+    </item>
+
+</items>
